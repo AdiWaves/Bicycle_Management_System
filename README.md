@@ -12,10 +12,10 @@ This is a Web based Application developed using PHP as a Host Language. Database
 <img src="/Screenshots/Screenshot (52).png" width="800" height="450" alt="available_cars"/>
 
 > - Admin Login
-<img src="/Screenshots/Screenshot (53).png" width="800" height="700" alt="add_car"/>
+<img src="/Screenshots/Screenshot (53).png" width="800" height="450" alt="add_car"/>
 
 > - Customer Login
-<img src="/Screenshots/Screenshot (54).png" width="800" height="800" alt="booking_confirm"/>
+<img src="/Screenshots/Screenshot (54).png" width="800" height="450" alt="booking_confirm"/>
 
 > - Rental Page
 <img src="/Screenshots/Screenshot (55).png" width="800" height="450" alt="return_car"/>
