@@ -1,10 +1,11 @@
-# Bicycle-Rental-Management-System
+![Screenshot (51)](https://github.com/AdiWaves/Bicycle_Management_System/assets/169535157/a008a0cc-5268-4273-b0ee-7702bd653fe7)# Bicycle-Rental-Management-System
 Online Bicycle Rental Management System 
 
 This is a Web based Application developed using PHP as a Host Language. Database for the Application is in "Database" folder. It can be imported to your localhost(phpMyAdmin) or any other servers. Also configure the "connection.php" to set up the necessary connections with the database.
 
 ### Screenshots:
 > - Landing Page
+<img src="/Screenshots/Screenshot (51).png" width="800" height="450" alt="available_cars"/>
 
 
 > - Available Cars
